@@ -1,0 +1,612 @@
+today is:2020-12-20
+{'rank': '1', 'singer': '是七叔呢 ', 'song': ' 踏山河', 'time': '2:48'}
+{'rank': '2', 'singer': '回小仙 ', 'song': ' 醒不来的梦', 'time': '3:52'}
+{'rank': '3', 'singer': 'IN', 'song': 'K、王忻辰 ', 'time': '3:01'}
+{'rank': '4', 'singer': 'IN', 'song': 'K、王忻辰 ', 'time': '4:01'}
+{'rank': '5', 'singer': '秋原依 ', 'song': ' 错季', 'time': '4:35'}
+{'rank': '6', 'singer': '是七叔呢 ', 'song': ' 燕无歇', 'time': '2:55'}
+{'rank': '7', 'singer': '花僮 ', 'song': ' 浪子闲话 (DJ沈念版)', 'time': '4:12'}
+{'rank': '8', 'singer': '小乐哥 ', 'song': ' 执迷不悟', 'time': '3:54'}
+{'rank': '9', 'singer': '阿YueYue ', 'song': ' 云与海', 'time': '4:18'}
+{'rank': '10', 'singer': '零一九零贰 ', 'song': ' 忘川彼岸 (DJ名龙版)', 'time': '3:00'}
+{'rank': '11', 'singer': '蒋雪儿 ', 'song': ' 燕无歇', 'time': '3:21'}
+{'rank': '12', 'singer': '井迪儿 ', 'song': ' 失控', 'time': '4:15'}
+{'rank': '13', 'singer': '陈亦洺 ', 'song': ' 不及 (DJ版)', 'time': '3:36'}
+{'rank': '14', 'singer': '海伦 ', 'song': ' 游山恋', 'time': '3:43'}
+{'rank': '15', 'singer': '零一九零贰 ', 'song': ' 还在假装', 'time': '2:45'}
+{'rank': '16', 'singer': 'Bomb比尔 ', 'song': ' 1022', 'time': '3:15'}
+{'rank': '17', 'singer': '比莉 ', 'song': ' Dear John', 'time': '5:11'}
+{'rank': '18', 'singer': '花僮 ', 'song': ' 笑纳', 'time': '4:32'}
+{'rank': '19', 'singer': '林晨阳 ', 'song': ' 失眠播报', 'time': '2:46'}
+{'rank': '20', 'singer': '闻人听書_ ', 'song': ' 虞兮叹', 'time': '3:30'}
+{'rank': '21', 'singer': '任然 ', 'song': ' 飞鸟和蝉', 'time': '4:56'}
+{'rank': '22', 'singer': '刘大壮 ', 'song': ' 我很好 (吉他版)', 'time': '3:48'}
+{'rank': '23', 'singer': '吴青峰 ', 'song': ' 如果声音不记得', 'time': '4:58'}
+{'rank': '24', 'singer': '伦桑、一棵小葱张晓涵 ', 'song': ' 字正腔圆', 'time': '3:45'}
+{'rank': '25', 'singer': '你的大表哥曲甲 ', 'song': ' 坠', 'time': '3:34'}
+{'rank': '26', 'singer': '小阿枫 ', 'song': ' 醉倾城 (DJ名龙版)', 'time': '5:08'}
+{'rank': '27', 'singer': '添儿呗 ', 'song': ' 烟火人间', 'time': '4:25'}
+{'rank': '28', 'singer': '张韶涵 ', 'song': ' 破茧', 'time': '3:31'}
+{'rank': '29', 'singer': '蓝心羽 ', 'song': ' 星空剪影', 'time': '3:17'}
+{'rank': '30', 'singer': '张茜 ', 'song': ' 用力活着', 'time': '4:23'}
+{'rank': '31', 'singer': 'Ava Max ', 'song': ' Salt', 'time': '3:00'}
+{'rank': '32', 'singer': '李袁杰 ', 'song': ' 大天蓬', 'time': '3:50'}
+{'rank': '33', 'singer': '叶里、伊格赛听 ', 'song': ' 谪仙', 'time': '2:58'}
+{'rank': '34', 'singer': 'BLACKPINK ', 'song': ' How You Like That', 'time': '3:01'}
+{'rank': '35', 'singer': '李润祺 ', 'song': ' 茫', 'time': '3:47'}
+{'rank': '36', 'singer': '王琪 ', 'song': ' 可可托海的牧羊人', 'time': '5:40'}
+{'rank': '37', 'singer': '艾辰 ', 'song': ' 谁与归 (DJ版)', 'time': '4:26'}
+{'rank': '38', 'singer': '王靖雯不胖 ', 'song': ' 不知所措', 'time': '4:08'}
+{'rank': '39', 'singer': '王靖雯不胖 ', 'song': ' 善变', 'time': '4:16'}
+{'rank': '40', 'singer': '伊格赛听、不靠谱组合 ', 'song': ' 广寒谣', 'time': '3:06'}
+{'rank': '41', 'singer': '林俊杰 ', 'song': ' 美人鱼', 'time': '4:14'}
+{'rank': '42', 'singer': 'en ', 'song': ' 间距', 'time': '4:44'}
+{'rank': '43', 'singer': '耀温顺 ', 'song': ' Love Is Gone (完整原版)', 'time': '3:00'}
+{'rank': '44', 'singer': '等什么君 ', 'song': ' 春庭雪', 'time': '4:00'}
+{'rank': '45', 'singer': '镜予歌、陈亦洺、喧笑 ', 'song': ' 晚夜微雨问海棠', 'time': '4:43'}
+{'rank': '46', 'singer': '不是花火呀 ', 'song': ' 陨落', 'time': '3:30'}
+{'rank': '47', 'singer': 'Maroon 5 ', 'song': ' Animals', 'time': '3:51'}
+{'rank': '48', 'singer': '傅梦彤 ', 'song': ' 潮汐 (DJ版)', 'time': '2:18'}
+{'rank': '49', 'singer': 'Alec Benjamin、Alessia Cara ', 'song': ' Let Me Down Slowly', 'time': '2:49'}
+{'rank': '50', 'singer': '白小白 ', 'song': ' 爱不得忘不舍', 'time': '3:52'}
+{'rank': '51', 'singer': '小乐哥 ', 'song': ' 慢慢', 'time': '3:57'}
+{'rank': '52', 'singer': 'Kyle Reynolds、Aspyer、Carly Jay ', 'song': ' Chance', 'time': '3:33'}
+{'rank': '53', 'singer': '王靖雯不胖 ', 'song': ' 遗憾也值得', 'time': '4:04'}
+{'rank': '54', 'singer': 'FrogMonster ', 'song': ' Remember Our Summer', 'time': '2:43'}
+{'rank': '55', 'singer': '海来阿木 ', 'song': ' 不过人间', 'time': '4:10'}
+{'rank': '56', 'singer': 'LoKk6 ', 'song': ' 我还是', 'time': '3:57'}
+{'rank': '57', 'singer': '傅梦彤 ', 'song': ' 潮汐 (Natural)', 'time': '2:48'}
+{'rank': '58', 'singer': '曲肖冰 ', 'song': ' 厚颜无耻', 'time': '3:05'}
+{'rank': '59', 'singer': 'XXXTENTACION ', 'song': ' NUMB', 'time': '3:06'}
+{'rank': '60', 'singer': '零一九零贰 ', 'song': ' 还你自由 (完整版)', 'time': '3:11'}
+{'rank': '61', 'singer': '邵帅 ', 'song': ' 你是人间四月天 (Live)', 'time': '2:58'}
+{'rank': '62', 'singer': '徐佳莹 ', 'song': ' 不舍(《斗罗大陆》动画片尾曲)', 'time': '4:37'}
+{'rank': '63', 'singer': '刘大壮 ', 'song': ' 三号线 (吉他版)', 'time': '3:34'}
+{'rank': '64', 'singer': '蔡健雅 ', 'song': ' 红色高跟鞋', 'time': '3:26'}
+{'rank': '65', 'singer': 'Phao、CM1X ', 'song': ' Hai Phút Hơn', 'time': '3:14'}
+{'rank': '66', 'singer': '单依纯 ', 'song': ' 永不失联的爱 (Live)', 'time': '4:23'}
+{'rank': '67', 'singer': '清水er ', 'song': ' 大天蓬 (女生版)', 'time': '3:35'}
+{'rank': '68', 'singer': 'Chris James ', 'song': ' Not Angry', 'time': '3:19'}
+{'rank': '69', 'singer': '等什么君 ', 'song': ' 辞九门回忆', 'time': '4:00'}
+{'rank': '70', 'singer': '周杰伦 ', 'song': ' 花海', 'time': '4:24'}
+{'rank': '71', 'singer': '张芸京 ', 'song': ' 偏爱', 'time': '3:32'}
+{'rank': '72', 'singer': '任然 ', 'song': ' 无人之岛', 'time': '4:45'}
+{'rank': '73', 'singer': '白小白 ', 'song': ' 我爱你不问归期', 'time': '4:14'}
+{'rank': '74', 'singer': 'Li', 'song': '2c ', 'time': '3:35'}
+{'rank': '75', 'singer': '周杰伦 ', 'song': ' 稻香', 'time': '3:43'}
+{'rank': '76', 'singer': 'Matisyahu、Akon ', 'song': ' One Day', 'time': '3:40'}
+{'rank': '77', 'singer': '王俊余乐 ', 'song': ' 一千个伤心的理由 (男女对唱版)', 'time': '4:29'}
+{'rank': '78', 'singer': '海伦 ', 'song': ' 游京 (新版)', 'time': '3:08'}
+{'rank': '79', 'singer': 'iKON ', 'song': ' 사랑을 했다 (LOVE SCENARIO) (爱过)', 'time': '3:29'}
+{'rank': '80', 'singer': '阿悠悠 ', 'song': ' 旧梦一场', 'time': '2:54'}
+{'rank': '81', 'singer': '薛之谦、郭聪明 ', 'song': ' 耗尽', 'time': '4:19'}
+{'rank': '82', 'singer': 'ILLENIUM、Nevve ', 'song': ' Fractures', 'time': '4:05'}
+{'rank': '83', 'singer': '街道办GDC、欧阳耀莹 ', 'song': ' 春娇与志明', 'time': '3:28'}
+{'rank': '84', 'singer': '华莎 ', 'song': ' 마리아 (María)', 'time': '3:19'}
+{'rank': '85', 'singer': '周杰伦 ', 'song': ' 霍元甲', 'time': '4:38'}
+{'rank': '86', 'singer': '刘德华 ', 'song': ' 暗里着迷', 'time': '3:49'}
+{'rank': '87', 'singer': '璐爷 ', 'song': ' 大天蓬', 'time': '4:04'}
+{'rank': '88', 'singer': 'Uu ', 'song': ' 慢慢', 'time': '3:59'}
+{'rank': '89', 'singer': 'Wiz Khalifa、Charlie Puth ', 'song': ' See You Again', 'time': '3:49'}
+{'rank': '90', 'singer': '司南 ', 'song': ' 冬眠', 'time': '4:29'}
+{'rank': '91', 'singer': '刘大壮 ', 'song': ' 一吻天荒 (吉他版)', 'time': '4:04'}
+{'rank': '92', 'singer': 'Sasha Sloan ', 'song': ' Dancing With Your Ghost', 'time': '3:17'}
+{'rank': '93', 'singer': 'Kidz Bop Kids ', 'song': ' Wolves', 'time': '3:19'}
+{'rank': '94', 'singer': 'Alec Benjamin ', 'song': ' Let Me Down Slowly', 'time': '2:49'}
+{'rank': '95', 'singer': '毛不易 ', 'song': ' 牧马城市', 'time': '4:18'}
+{'rank': '96', 'singer': '铭志 ', 'song': ' 他只是经过 (完整版)', 'time': '2:42'}
+{'rank': '97', 'singer': '周杰伦 ', 'song': ' 给我一首歌的时间', 'time': '4:13'}
+{'rank': '98', 'singer': '海来阿木、阿呷拉古、曲比阿且 ', 'song': ' 别知己', 'time': '4:40'}
+{'rank': '99', 'singer': '小咪 ', 'song': ' 我走后', 'time': '4:08'}
+{'rank': '100', 'singer': '安苏羽、傅梦彤 ', 'song': ' 潮汐 (Natural)', 'time': '2:48'}
+{'rank': '101', 'singer': '艾辰 ', 'song': ' 晚夜微雨问海棠', 'time': '4:32'}
+{'rank': '102', 'singer': '林俊杰 ', 'song': ' 那些你很冒险的梦', 'time': '4:05'}
+{'rank': '103', 'singer': '灼夭、小田音乐社 ', 'song': ' 鲸落万物生', 'time': '2:56'}
+{'rank': '104', 'singer': '海来阿木 ', 'song': ' 你的万水千山', 'time': '4:09'}
+{'rank': '105', 'singer': '蒋雪儿 ', 'song': ' 莫问归期', 'time': '3:39'}
+{'rank': '106', 'singer': '周杰伦 ', 'song': ' 晴天', 'time': '4:29'}
+{'rank': '107', 'singer': 'Hawk Nelson ', 'song': ' Sold Out', 'time': '3:33'}
+{'rank': '108', 'singer': 'Conor Maynard ', 'song': ' Someone You Loved', 'time': '2:28'}
+{'rank': '109', 'singer': '蓝心羽 ', 'song': ' 阿拉斯加海湾', 'time': '3:57'}
+{'rank': '110', 'singer': 'Sia ', 'song': ' Unstoppable', 'time': '3:37'}
+{'rank': '111', 'singer': '林俊杰 ', 'song': ' 可惜没如果', 'time': '4:58'}
+{'rank': '112', 'singer': '井迪儿 ', 'song': ' 失控(DJ版)', 'time': '3:03'}
+{'rank': '113', 'singer': 'en ', 'song': ' 嚣张', 'time': '4:14'}
+{'rank': '114', 'singer': '小乐哥 ', 'song': ' 收敛', 'time': '3:38'}
+{'rank': '115', 'singer': '吉他的天空 ', 'song': ' 暗里着迷', 'time': '3:59'}
+{'rank': '116', 'singer': '周深 ', 'song': ' 起风了 (Live)', 'time': '5:11'}
+{'rank': '117', 'singer': '等什么君 ', 'song': ' 关山酒', 'time': '3:54'}
+{'rank': '118', 'singer': '魏佳艺 ', 'song': ' 我的眼泪你不在乎', 'time': '4:04'}
+{'rank': '119', 'singer': '毛毛 ', 'song': ' 奇迹再现', 'time': '3:56'}
+{'rank': '120', 'singer': '脸红的思春期(BOL4) ', 'song': ' You(=I)', 'time': '2:50'}
+{'rank': '121', 'singer': '于文文 ', 'song': ' 体面', 'time': '4:42'}
+{'rank': '122', 'singer': '薛之谦 ', 'song': ' 天外来物', 'time': '4:17'}
+{'rank': '123', 'singer': '林小珂 ', 'song': ' 尘埃', 'time': '4:43'}
+{'rank': '124', 'singer': 'MAMAMOO ', 'song': ' 딩가딩가 (Dingga)', 'time': '2:59'}
+{'rank': '125', 'singer': '林俊杰 ', 'song': ' 裂缝中的阳光', 'time': '3:48'}
+{'rank': '126', 'singer': 'Jessi ', 'song': ' 눈누난나 (NUNU NANA)', 'time': '3:15'}
+{'rank': '127', 'singer': '孜然胳肢窝、郭子潇、郑莹 ', 'song': ' 错过', 'time': '3:10'}
+{'rank': '128', 'singer': '林俊杰 ', 'song': ' 江南', 'time': '4:28'}
+{'rank': '129', 'singer': '子尧 ', 'song': ' 我曾爱过一个人', 'time': '2:57'}
+{'rank': '130', 'singer': '阿冗 ', 'song': ' 你的答案', 'time': '3:39'}
+{'rank': '131', 'singer': '旺仔小乔 ', 'song': ' 为敌', 'time': '4:04'}
+{'rank': '132', 'singer': '胡66 ', 'song': ' 都怪我', 'time': '5:05'}
+{'rank': '133', 'singer': 'Matisyahu ', 'song': ' One Day', 'time': '3:27'}
+{'rank': '134', 'singer': '海鸟飞鱼 ', 'song': ' 思念绕指尖 (DJ名龙版)', 'time': '3:27'}
+{'rank': '135', 'singer': '周杰伦 ', 'song': ' 告白气球', 'time': '3:36'}
+{'rank': '136', 'singer': '灿烈、Punch ', 'song': ' Stay With Me', 'time': '3:12'}
+{'rank': '137', 'singer': 'SISTAR ', 'song': ' 해볼래 (试试看)', 'time': '3:09'}
+{'rank': '138', 'singer': '等什么君 ', 'song': ' 赤伶', 'time': '4:42'}
+{'rank': '139', 'singer': '王力宏、谭维维 ', 'song': ' 缘分一道桥', 'time': '4:06'}
+{'rank': '140', 'singer': '梦然 ', 'song': ' 少年', 'time': '3:56'}
+{'rank': '141', 'singer': '等什么君 ', 'song': ' 天下', 'time': '3:07'}
+{'rank': '142', 'singer': '程响 ', 'song': ' 世界这么大还是遇见你', 'time': '3:57'}
+{'rank': '143', 'singer': '郑亦辰 ', 'song': ' 相思成灾', 'time': '4:23'}
+{'rank': '144', 'singer': 'Ofenbach、Brodie Barclay ', 'song': " You Don't Know Me", 'time': '2:27'}
+{'rank': '145', 'singer': '周慧敏 ', 'song': ' 最爱', 'time': '4:25'}
+{'rank': '146', 'singer': 'BIGBANG ', 'song': ' 뱅뱅뱅 (BANG BANG BANG) (砰砰砰)', 'time': '3:40'}
+{'rank': '147', 'singer': 'BEYOND ', 'song': ' 海阔天空', 'time': '5:20'}
+{'rank': '148', 'singer': '周杰伦、Lara梁心颐 ', 'song': ' 珊瑚海', 'time': '4:15'}
+{'rank': '149', 'singer': 'Charlie Puth ', 'song': ' Attention', 'time': '3:31'}
+{'rank': '150', 'singer': '张杰 ', 'song': ' 天下', 'time': '3:41'}
+{'rank': '151', 'singer': '丸子呦 ', 'song': ' 广寒宫', 'time': '3:32'}
+{'rank': '152', 'singer': '叶炫清 ', 'song': ' 九张机', 'time': '3:40'}
+{'rank': '153', 'singer': 'BLACKPINK、Selena Gomez ', 'song': ' Ice Cream (with Selena Gomez)', 'time': '2:55'}
+{'rank': '154', 'singer': 'John Legend、Ludacris ', 'song': ' Tonight (Best You Ever Had)', 'time': '3:59'}
+{'rank': '155', 'singer': '刘大壮 ', 'song': ' 忘不了的是你', 'time': '4:09'}
+{'rank': '156', 'singer': '袁娅维 ', 'song': ' 说散就散', 'time': '4:02'}
+{'rank': '157', 'singer': 'Hillsong Young & Free ', 'song': ' Wake (Studio Version)', 'time': '4:14'}
+{'rank': '158', 'singer': '李昕融 ', 'song': ' 听我说谢谢你', 'time': '3:07'}
+{'rank': '159', 'singer': 'Katie Sky ', 'song': ' Monsters', 'time': '3:38'}
+{'rank': '160', 'singer': '要不要买菜 ', 'song': ' 下山', 'time': '2:53'}
+{'rank': '161', 'singer': '等什么君 ', 'song': ' 笑看', 'time': '3:18'}
+{'rank': '162', 'singer': 'Martin Garrix、Clinton Kane ', 'song': ' Drown (Alle Farben Remix)', 'time': '2:49'}
+{'rank': '163', 'singer': '赵芷彤 ', 'song': ' 甜甜咸咸', 'time': '3:17'}
+{'rank': '164', 'singer': '小阿枫 ', 'song': ' 爱江山更爱美人', 'time': '3:56'}
+{'rank': '165', 'singer': '陈奕迅 ', 'song': ' 十年', 'time': '3:25'}
+{'rank': '166', 'singer': '林俊杰 ', 'song': ' 曹操', 'time': '4:02'}
+{'rank': '167', 'singer': '鬼鬼Gmer ', 'song': ' 落日与鲸', 'time': '4:41'}
+{'rank': '168', 'singer': '刘大壮 ', 'song': ' 信仰 (吉他版)', 'time': '2:06'}
+{'rank': '169', 'singer': 'Timbaland、OneRepublic ', 'song': ' Apologize', 'time': '3:04'}
+{'rank': '170', 'singer': '张信哲 ', 'song': ' 信仰', 'time': '4:15'}
+{'rank': '171', 'singer': '唐千云 ', 'song': ' 海底', 'time': '4:11'}
+{'rank': '172', 'singer': '菲儿 ', 'song': ' 思念成沙', 'time': '4:44'}
+{'rank': '173', 'singer': '一杯陈豆浆 ', 'song': ' 漫步人生路', 'time': '3:00'}
+{'rank': '174', 'singer': 'Sam Hunt ', 'song': ' Break Up in a Small Town', 'time': '3:51'}
+{'rank': '175', 'singer': '林俊杰 ', 'song': ' 修炼爱情', 'time': '4:47'}
+{'rank': '176', 'singer': '南征北战NZBZ ', 'song': ' 我的天空', 'time': '3:54'}
+{'rank': '177', 'singer': '王贰浪 ', 'song': ' 像鱼', 'time': '4:45'}
+{'rank': '178', 'singer': 'Intelligency ', 'song': ' August (DJ DimixeR Remix)', 'time': '2:38'}
+{'rank': '179', 'singer': '海鸣威、吴琼 ', 'song': ' 老人与海', 'time': '4:27'}
+{'rank': '180', 'singer': '许巍 ', 'song': ' 曾经的你', 'time': '4:23'}
+{'rank': '181', 'singer': '小阿七 ', 'song': ' 寂寞余味', 'time': '4:26'}
+{'rank': '182', 'singer': '乔佳旭 ', 'song': ' 雪下的时候', 'time': '4:23'}
+{'rank': '183', 'singer': 'Cash Cash、Christina Perri ', 'song': ' Hero', 'time': '3:18'}
+{'rank': '184', 'singer': 'Vicetone、Meron Ryan ', 'song': ' Walk Thru Fire', 'time': '3:14'}
+{'rank': '185', 'singer': 'BibianeZ、Thimlife ', 'song': ' Home (Blaze U Remix)', 'time': '2:18'}
+{'rank': '186', 'singer': '于洋 ', 'song': ' 一开始说陪你到老的人现在他还在吗', 'time': '3:54'}
+{'rank': '187', 'singer': '张碧晨 ', 'song': ' 骗', 'time': '4:58'}
+{'rank': '188', 'singer': 'Mad Clown、金娜英 ', 'song': ' 다시 너를 (再次见到你)', 'time': '3:55'}
+{'rank': '189', 'singer': '唐子臣 ', 'song': ' 沉醉的青丝 (完整版)', 'time': '3:10'}
+{'rank': '190', 'singer': 'BLACKPINK ', 'song': ' 휘파람 (口哨)', 'time': '3:32'}
+{'rank': '191', 'singer': '松紧先生(李宗锦) ', 'song': ' 你走 (Demo)', 'time': '4:04'}
+{'rank': '192', 'singer': 'DJ小鱼儿 ', 'song': ' 人潮里拥抱', 'time': '3:09'}
+{'rank': '193', 'singer': '周杰伦 ', 'song': ' 七里香', 'time': '5:03'}
+{'rank': '194', 'singer': 'Vicetone、Cozi Zuehlsdorff ', 'song': ' Way Back', 'time': '3:28'}
+{'rank': '195', 'singer': 'DAISHI DANCE、Cecile Corbel ', 'song': ' Take Me Hand', 'time': '4:20'}
+{'rank': '196', 'singer': '气质隆Sir ', 'song': ' 最火伤感翻唱 (女声版)', 'time': '1:36'}
+{'rank': '197', 'singer': '다비치(Davichi) ', 'song': ' 이 사랑 (这份爱)', 'time': '3:46'}
+{'rank': '198', 'singer': '胡66 ', 'song': ' 后来遇见他', 'time': '4:09'}
+{'rank': '199', 'singer': 'Alan Walker、Noah Cyrus、Digital Farm Animals、Juliander ', 'song': ' ...', 'time': '3:19'}
+{'rank': '200', 'singer': '不够 ', 'song': ' 收敛', 'time': '3:24'}
+{'rank': '201', 'singer': 'Terror Jr ', 'song': ' 3 Strikes', 'time': '2:56'}
+{'rank': '202', 'singer': '虎二 ', 'song': ' 你应该很快乐', 'time': '3:30'}
+{'rank': '203', 'singer': '傅如乔 ', 'song': ' 微微', 'time': '4:37'}
+{'rank': '204', 'singer': '华晨宇、郎朗 ', 'song': ' 好想爱这个世界啊 (Live)', 'time': '1:42'}
+{'rank': '205', 'singer': '林俊杰、G.E.M.邓紫棋 ', 'song': ' 手心的蔷薇', 'time': '4:40'}
+{'rank': '206', 'singer': 'Max Oazo、Moonessa ', 'song': ' Once Upon a Time', 'time': '3:26'}
+{'rank': '207', 'singer': '周杰伦 ', 'song': ' 青花瓷', 'time': '3:59'}
+{'rank': '208', 'singer': '小阿七 ', 'song': ' 酒家', 'time': '3:21'}
+{'rank': '209', 'singer': '邓丽君 ', 'song': ' 漫步人生路', 'time': '3:44'}
+{'rank': '210', 'singer': '零一九零贰 ', 'song': ' 落单恋人', 'time': '4:08'}
+{'rank': '211', 'singer': '毛不易 ', 'song': ' 像我这样的人 (Live)', 'time': '2:51'}
+{'rank': '212', 'singer': '周杰伦 ', 'song': ' 夜曲', 'time': '3:47'}
+{'rank': '213', 'singer': '唐艺 ', 'song': ' 向孟婆借一碗汤', 'time': '3:37'}
+{'rank': '214', 'singer': 'Taylor Swift ', 'song': ' Love Story', 'time': '3:54'}
+{'rank': '215', 'singer': '王靖雯不胖 ', 'song': ' 永不失联的爱', 'time': '4:36'}
+{'rank': '216', 'singer': '拾贰！ ', 'song': ' 醒不来的梦', 'time': '3:11'}
+{'rank': '217', 'singer': '小倩 ', 'song': ' 言不由衷', 'time': '4:06'}
+{'rank': '218', 'singer': '李荣浩 ', 'song': ' 爸爸妈妈', 'time': '4:44'}
+{'rank': '219', 'singer': '鹏鹏音乐、一航 ', 'song': ' 英雄泪', 'time': '3:03'}
+{'rank': '220', 'singer': '仇远旭 ', 'song': ' 美人鱼 (原版)', 'time': '1:44'}
+{'rank': '221', 'singer': '汪苏泷 ', 'song': ' 灵猫传', 'time': '3:49'}
+{'rank': '222', 'singer': '陈奕迅 ', 'song': ' 单车', 'time': '3:28'}
+{'rank': '223', 'singer': '刘大壮 ', 'song': ' 最', 'time': '5:01'}
+{'rank': '224', 'singer': '二小姐 ', 'song': ' 有没有一种思念永不疲惫', 'time': '3:59'}
+{'rank': '225', 'singer': '锦零、音阙诗听 ', 'song': ' 空山新雨后', 'time': '2:53'}
+{'rank': '226', 'singer': 'Owl City、Carly Rae Jepsen ', 'song': ' Good Time', 'time': '3:26'}
+{'rank': '227', 'singer': '饭思思 ', 'song': ' 广寒宫', 'time': '3:32'}
+{'rank': '228', 'singer': 'Elephante、Matluck ', 'song': ' Come Back For You', 'time': '3:21'}
+{'rank': '229', 'singer': '颜一彦 ', 'song': ' 红尘悠悠 (DJ沈念版)', 'time': '4:35'}
+{'rank': '230', 'singer': 'Yunomi、nicamoq ', 'song': ' インドア系ならトラックメイカー', 'time': '3:15'}
+{'rank': '231', 'singer': 'Avicii ', 'song': ' Waiting for Love', 'time': '3:50'}
+{'rank': '232', 'singer': 'Gryffin、Katie Pearlman ', 'song': ' Nobody Compares To You', 'time': '3:51'}
+{'rank': '233', 'singer': '李玉刚 ', 'song': ' 刚好遇见你', 'time': '3:19'}
+{'rank': '234', 'singer': '华晨宇 ', 'song': ' 山海 (Live)', 'time': '5:09'}
+{'rank': '235', 'singer': '半吨兄弟 ', 'song': ' 我这一生', 'time': '4:59'}
+{'rank': '236', 'singer': 'Alan Walker、K', 'song': '391、Tungevaag、Mangoo ', 'time': '2:48'}
+{'rank': '237', 'singer': 'twocolors ', 'song': ' Lovefool', 'time': '3:11'}
+{'rank': '238', 'singer': '王一博 ', 'song': ' 熹微', 'time': '4:16'}
+{'rank': '239', 'singer': '毛不易、周深 ', 'song': ' 梅香如故', 'time': '4:02'}
+{'rank': '240', 'singer': '蔡徐坤 ', 'song': ' 情人', 'time': '3:15'}
+{'rank': '241', 'singer': 'Corki ', 'song': ' 下坠Falling', 'time': '3:45'}
+{'rank': '242', 'singer': 'OneRepublic ', 'song': ' Counting Stars', 'time': '4:17'}
+{'rank': '243', 'singer': '光头华夏 ', 'song': ' 无期', 'time': '4:45'}
+{'rank': '244', 'singer': '韩红、林俊杰 ', 'song': ' 飞云之下', 'time': '4:26'}
+{'rank': '245', 'singer': 'BIGBANG ', 'song': ' 하루하루 (一天一天)', 'time': '4:16'}
+{'rank': '246', 'singer': 'JENNIE (제니) ', 'song': ' SOLO', 'time': '2:49'}
+{'rank': '247', 'singer': '孙盛希 ', 'song': ' 少一点天分', 'time': '4:36'}
+{'rank': '248', 'singer': '藤竹京 ', 'song': ' 游京', 'time': '3:44'}
+{'rank': '249', 'singer': '李荣浩 ', 'song': ' 麻雀', 'time': '4:12'}
+{'rank': '250', 'singer': '王者荣耀同人局 ', 'song': ' 百战成诗', 'time': '6:36'}
+{'rank': '251', 'singer': 'Justin Timberlake、Carey Mulligan、Stark Sands ', 'song': ' Five Hundr...', 'time': '3:25'}
+{'rank': '252', 'singer': 'Lady Gaga ', 'song': ' Poker Face', 'time': '3:59'}
+{'rank': '253', 'singer': '周传雄 ', 'song': ' 黄昏', 'time': '5:44'}
+{'rank': '254', 'singer': 'Remady、Manu', 'song': 'L ', 'time': '3:00'}
+{'rank': '255', 'singer': '杨小壮 ', 'song': ' 两个世界', 'time': '4:11'}
+{'rank': '256', 'singer': '解语花. ', 'song': ' 天空之外', 'time': '6:07'}
+{'rank': '257', 'singer': '刘小慧 ', 'song': ' 初恋情人', 'time': '4:40'}
+{'rank': '258', 'singer': '杨千嬅 ', 'song': ' 处处吻', 'time': '3:19'}
+{'rank': '259', 'singer': '杨宗纬、张碧晨 ', 'song': ' 凉凉', 'time': '5:33'}
+{'rank': '260', 'singer': '添儿呗 ', 'song': ' 坠', 'time': '3:36'}
+{'rank': '261', 'singer': 'Vikki Leigh ', 'song': ' Salt', 'time': '3:00'}
+{'rank': '262', 'singer': '朴树 ', 'song': ' 平凡之路', 'time': '5:01'}
+{'rank': '263', 'singer': '平生青涯 ', 'song': ' 献天缘', 'time': '3:14'}
+{'rank': '264', 'singer': '凡离、月灵猫、小可 ', 'song': ' 绝世舞姬 (热播完整版)', 'time': '2:42'}
+{'rank': '265', 'singer': '王小帅 ', 'song': ' 我爱他', 'time': '4:15'}
+{'rank': '266', 'singer': '王韵 ', 'song': ' 思念成沙', 'time': '4:46'}
+{'rank': '267', 'singer': '等什么君 ', 'song': ' 慕夏', 'time': '2:50'}
+{'rank': '268', 'singer': '周深 ', 'song': ' 大鱼', 'time': '5:14'}
+{'rank': '269', 'singer': '苏谭谭 ', 'song': ' 叹这一生', 'time': '4:14'}
+{'rank': '270', 'singer': '张韶涵、王晰 ', 'song': ' 黎明前的黑暗 (Live)', 'time': '4:08'}
+{'rank': '271', 'singer': '哈利Halleeee ', 'song': ' 星星失眠', 'time': '4:12'}
+{'rank': '272', 'singer': 'Fanfan ', 'song': ' 陨落', 'time': '3:43'}
+{'rank': '273', 'singer': 'Li', 'song': '2c ', 'time': '3:41'}
+{'rank': '274', 'singer': '胡夏、郁可唯 ', 'song': ' 知否知否', 'time': '4:36'}
+{'rank': '275', 'singer': '李常超(Lao乾妈) ', 'song': ' 盗墓笔记·十年人间', 'time': '4:37'}
+{'rank': '276', 'singer': '郭聪明 ', 'song': ' 盗墓笔记·十年人间', 'time': '4:36'}
+{'rank': '277', 'singer': '梁静茹 ', 'song': ' 暖暖', 'time': '4:03'}
+{'rank': '278', 'singer': '李常超(Lao乾妈) ', 'song': ' 长安姑娘', 'time': '4:14'}
+{'rank': '279', 'singer': '脸红的思春期(BOL4) ', 'song': ' 우주를 줄게 (给你宇宙)', 'time': '3:33'}
+{'rank': '280', 'singer': 'Vicetone、Cozi Zuehlsdorff ', 'song': ' Nevada', 'time': '3:30'}
+{'rank': '281', 'singer': '枯木逢春 ', 'song': ' 这一生关于你的风景', 'time': '4:15'}
+{'rank': '282', 'singer': '梁咏琪 ', 'song': ' 灰姑娘', 'time': '3:31'}
+{'rank': '283', 'singer': 'G.E.M.邓紫棋 ', 'song': ' 倒数', 'time': '3:49'}
+{'rank': '284', 'singer': 'Lil Ghost小鬼 ', 'song': ' 偏爱 (Live)', 'time': '3:30'}
+{'rank': '285', 'singer': '沐泽、泽豪 ', 'song': ' 坠入海底', 'time': '1:44'}
+{'rank': '286', 'singer': '王靖雯不胖 ', 'song': ' 爱,存在', 'time': '4:38'}
+{'rank': '287', 'singer': '豆包 ', 'song': ' 诗人莫把红颜醉 (戏腔版)', 'time': '3:08'}
+{'rank': '288', 'singer': '海来阿木 ', 'song': ' 点歌的人', 'time': '3:17'}
+{'rank': '289', 'singer': 'Tiger JK、Jinsil ', 'song': ' Reset (重置)', 'time': '4:02'}
+{'rank': '290', 'singer': '鹏鹏音乐、丰硕 ', 'song': ' 找一个字代替', 'time': '3:23'}
+{'rank': '291', 'singer': '花姐 ', 'song': ' 下辈子也要找到你', 'time': '3:10'}
+{'rank': '292', 'singer': 'BLACKPINK ', 'song': ' Kill This Love', 'time': '3:09'}
+{'rank': '293', 'singer': '要不要买菜 ', 'song': ' 火红的萨日朗', 'time': '3:43'}
+{'rank': '294', 'singer': '潘玮柏、张韶涵 ', 'song': ' 快乐崇拜', 'time': '3:25'}
+{'rank': '295', 'singer': '孟西 ', 'song': ' 执迷不悟', 'time': '2:46'}
+{'rank': '296', 'singer': '等什么君 ', 'song': ' 人间不束', 'time': '4:09'}
+{'rank': '297', 'singer': '黄小琥 ', 'song': ' 没那么简单', 'time': '5:08'}
+{'rank': '298', 'singer': '葛东琪 ', 'song': ' 悬溺', 'time': '3:17'}
+{'rank': '299', 'singer': 'Zella Day ', 'song': ' East of Eden', 'time': '3:05'}
+{'rank': '300', 'singer': '林俊杰 ', 'song': ' 背对背拥抱', 'time': '3:54'}
+{'rank': '301', 'singer': '孙燕姿 ', 'song': ' 开始懂了', 'time': '4:32'}
+{'rank': '302', 'singer': 'G.E.M.邓紫棋 ', 'song': ' 句号', 'time': '3:55'}
+{'rank': '303', 'singer': '于果 ', 'song': ' 侧脸', 'time': '3:37'}
+{'rank': '304', 'singer': '张云雷 ', 'song': ' 探清水河', 'time': '5:01'}
+{'rank': '305', 'singer': '孟子坤 ', 'song': ' 晚枫歌', 'time': '3:57'}
+{'rank': '306', 'singer': 'Ellie Goulding ', 'song': ' Love Me Like You Do', 'time': '4:13'}
+{'rank': '307', 'singer': '张靓颖 ', 'song': ' 如果这就是爱情', 'time': '4:42'}
+{'rank': '308', 'singer': 'Alan Walker ', 'song': ' The Spectre', 'time': '3:14'}
+{'rank': '309', 'singer': '韩小欠 ', 'song': ' 一开始说陪你到老的人现在他还在吗', 'time': '3:54'}
+{'rank': '310', 'singer': 'Besomorph、Anthony Keyrouz、Lunis ', 'song': ' Apologize', 'time': '2:26'}
+{'rank': '311', 'singer': 'Lost Frequencies、Janieck Devy ', 'song': ' Reality', 'time': '2:40'}
+{'rank': '312', 'singer': '林俊杰 ', 'song': ' 会有那么一天', 'time': '4:08'}
+{'rank': '313', 'singer': '尚士达 ', 'song': ' 生而为人', 'time': '5:19'}
+{'rank': '314', 'singer': 'The Chainsmokers、Coldplay ', 'song': ' Something Just Like This', 'time': '4:07'}
+{'rank': '315', 'singer': '任然 ', 'song': ' 后继者', 'time': '4:02'}
+{'rank': '316', 'singer': 'The Cab ', 'song': ' Lock Me Up', 'time': '3:31'}
+{'rank': '317', 'singer': 'CHROMANCE ', 'song': ' Wrap Me In Plastic', 'time': '3:13'}
+{'rank': '318', 'singer': '潇公子（刘潇） ', 'song': ' 兄弟想你了', 'time': '4:21'}
+{'rank': '319', 'singer': 'G.E.M.邓紫棋 ', 'song': ' 光年之外', 'time': '3:56'}
+{'rank': '320', 'singer': 'Blue ', 'song': ' Sorry Seems To Be The Hardest Word', 'time': '3:42'}
+{'rank': '321', 'singer': '林子祥 ', 'song': ' 谁能明白我', 'time': '3:22'}
+{'rank': '322', 'singer': 'The Strumbellas ', 'song': ' Spirits', 'time': '3:24'}
+{'rank': '323', 'singer': '等什么君 ', 'song': ' 叹郁孤', 'time': '3:33'}
+{'rank': '324', 'singer': '小倩 ', 'song': ' 不配怀念', 'time': '3:32'}
+{'rank': '325', 'singer': 'Alan Walker、Sia ', 'song': ' Move Your Body (Alan Walker Remix)', 'time': '3:38'}
+{'rank': '326', 'singer': 'We Rabbitz、Adam Christopher ', 'song': ' Something Just Like This', 'time': '3:21'}
+{'rank': '327', 'singer': '隔壁老樊 ', 'song': ' 多想在平庸的生活拥抱你 (Live)', 'time': '4:29'}
+{'rank': '328', 'singer': '丁当 ', 'song': ' 猜不透', 'time': '3:50'}
+{'rank': '329', 'singer': '单依纯 ', 'song': ' 给电影人的情书', 'time': '4:38'}
+{'rank': '330', 'singer': '皮卡丘多多 ', 'song': ' 我和你', 'time': '3:11'}
+{'rank': '331', 'singer': '崔子格 ', 'song': ' 卜卦', 'time': '3:36'}
+{'rank': '332', 'singer': '周杰伦 ', 'song': ' 一路向北', 'time': '4:55'}
+{'rank': '333', 'singer': '王者荣耀、KI:Theory ', 'song': ' Evolve (淬炼)', 'time': '3:35'}
+{'rank': '334', 'singer': '山水组合 ', 'song': ' 你莫走', 'time': '3:18'}
+{'rank': '335', 'singer': '马美如 ', 'song': ' 泪蛋蛋掉在酒杯杯里', 'time': '3:39'}
+{'rank': '336', 'singer': 'en ', 'song': ' 云水谣', 'time': '4:01'}
+{'rank': '337', 'singer': '3LAU、Carly Paige ', 'song': ' Touch', 'time': '3:25'}
+{'rank': '338', 'singer': 'Don Diablo ', 'song': ' Cutting Shapes', 'time': '2:59'}
+{'rank': '339', 'singer': '许巍 ', 'song': ' 蓝莲花', 'time': '4:30'}
+{'rank': '340', 'singer': '米津玄師 ', 'song': ' Lemon (柠檬)', 'time': '4:15'}
+{'rank': '341', 'singer': 'Timeflies、Katie Sky ', 'song': ' Monsters', 'time': '3:45'}
+{'rank': '342', 'singer': '沈谧仁、奇然 ', 'song': ' 琵琶行', 'time': '5:35'}
+{'rank': '343', 'singer': '马健涛 ', 'song': ' 你是我唯一的执着', 'time': '3:52'}
+{'rank': '344', 'singer': 'OH MY GIRL ', 'song': ' Dolphin', 'time': '2:56'}
+{'rank': '345', 'singer': '阿悠悠 ', 'song': ' 一生与你擦肩而过', 'time': '3:59'}
+{'rank': '346', 'singer': 'Joel Adams ', 'song': " Please Don't Go", 'time': '3:30'}
+{'rank': '347', 'singer': '陈小春 ', 'song': ' 乱世巨星', 'time': '3:19'}
+{'rank': '348', 'singer': '5 Seconds of Summer ', 'song': ' Teeth', 'time': '3:24'}
+{'rank': '349', 'singer': '陈瑞 ', 'song': ' 白狐', 'time': '5:55'}
+{'rank': '350', 'singer': '林俊杰 ', 'song': ' 交换余生', 'time': '4:36'}
+{'rank': '351', 'singer': '等什么君 ', 'song': ' 误红妆', 'time': '3:36'}
+{'rank': '352', 'singer': 'mizuki、SawanoHiroyuki[nZk] ', 'song': ' aLIEz', 'time': '4:28'}
+{'rank': '353', 'singer': 'G.E.M.邓紫棋 ', 'song': ' 泡沫', 'time': '4:18'}
+{'rank': '354', 'singer': '海伦 ', 'song': ' 桥边姑娘', 'time': '3:03'}
+{'rank': '355', 'singer': '周传雄 ', 'song': ' 冬天的秘密', 'time': '4:32'}
+{'rank': '356', 'singer': 'BLACKPINK ', 'song': ' SOLO (Live)', 'time': '3:02'}
+{'rank': '357', 'singer': 'HITA ', 'song': ' 赤伶', 'time': '4:26'}
+{'rank': '358', 'singer': 'Taylor Swift ', 'song': ' Last Christmas', 'time': '3:29'}
+{'rank': '359', 'singer': '黄静美 ', 'song': ' 多年以后', 'time': '3:12'}
+{'rank': '360', 'singer': '胡歌 ', 'song': ' 一吻天荒', 'time': '4:12'}
+{'rank': '361', 'singer': 'Selena Gomez、Marshmello ', 'song': ' Wolves', 'time': '3:18'}
+{'rank': '362', 'singer': '苏谭谭 ', 'song': ' 入了心的人', 'time': '3:47'}
+{'rank': '363', 'singer': '李荣浩 ', 'song': ' 年少有为', 'time': '4:39'}
+{'rank': '364', 'singer': '张韶涵 ', 'song': ' 欧若拉', 'time': '4:22'}
+{'rank': '365', 'singer': '郑源 ', 'song': ' 包容', 'time': '4:23'}
+{'rank': '366', 'singer': 'LUM!X、Gabry Ponte ', 'song': ' Monster', 'time': '3:03'}
+{'rank': '367', 'singer': 'AGA ', 'song': ' Wonderful U (Demo)', 'time': '4:09'}
+{'rank': '368', 'singer': 'Emilia ', 'song': ' Big Big World (Album Version)', 'time': '3:22'}
+{'rank': '369', 'singer': '周杰伦 ', 'song': ' 不能说的秘密', 'time': '4:56'}
+{'rank': '370', 'singer': '胡歌 ', 'song': ' 忘记时间', 'time': '4:32'}
+{'rank': '371', 'singer': '王杰 ', 'song': ' 谁明浪子心', 'time': '5:04'}
+{'rank': '372', 'singer': 'Spada、Anna Leyne ', 'song': ' Catchfire (Sun Sun Sun) (Radio Edit)', 'time': '2:46'}
+{'rank': '373', 'singer': '蓝心羽 ', 'song': ' 夏天的风', 'time': '4:02'}
+{'rank': '374', 'singer': '刘若英 ', 'song': ' 后来', 'time': '5:41'}
+{'rank': '375', 'singer': '乐童音乐家 ', 'song': ' DINOSAUR (恐龙)', 'time': '4:00'}
+{'rank': '376', 'singer': '张宇 ', 'song': ' 给你们', 'time': '4:48'}
+{'rank': '377', 'singer': '青鸟飞鱼 ', 'song': ' 此生不换', 'time': '4:25'}
+{'rank': '378', 'singer': '泽国同学 ', 'song': ' 折风渡夜 (DJ名龙版)', 'time': '3:50'}
+{'rank': '379', 'singer': 'Charlie Puth、Selena Gomez ', 'song': " We Don't Talk Anymore", 'time': '3:37'}
+{'rank': '380', 'singer': '范逸臣 ', 'song': ' 放生', 'time': '4:31'}
+{'rank': '381', 'singer': '纸砚zyan ', 'song': ' 画皮', 'time': '3:44'}
+{'rank': '382', 'singer': 'BLACKPINK ', 'song': ' 뚜두뚜두 (DDU', 'time': '3:29'}
+{'rank': '383', 'singer': 'Michael Learns to Rock ', 'song': ' Take Me To Your Heart', 'time': '3:58'}
+{'rank': '384', 'singer': 'Justin Bieber、Big Sean ', 'song': ' As Long As You Love Me (Album Ver...', 'time': '3:49'}
+{'rank': '385', 'singer': '阿悠悠 ', 'song': ' 人为情叹', 'time': '4:20'}
+{'rank': '386', 'singer': '一口甜 ', 'song': ' 圈住你', 'time': '2:58'}
+{'rank': '387', 'singer': '拼音师 ', 'song': ' 小鸟伏特加', 'time': '3:13'}
+{'rank': '388', 'singer': '初遇南音、萌妹 ', 'song': ' 遇见即是上上签 (热播版)', 'time': '2:01'}
+{'rank': '389', 'singer': '蔡依林 ', 'song': ' 日不落', 'time': '3:46'}
+{'rank': '390', 'singer': '苏谭谭 ', 'song': ' 情难断', 'time': '4:26'}
+{'rank': '391', 'singer': '花姐 ', 'song': ' 此情一直在心间', 'time': '2:57'}
+{'rank': '392', 'singer': '杨胖雨 ', 'song': ' 脆弱星球', 'time': '3:19'}
+{'rank': '393', 'singer': '零6、吕帅、陆怡雯 ', 'song': ' 未来式情歌', 'time': '2:58'}
+{'rank': '394', 'singer': '张韶涵 ', 'song': ' 淋雨一直走', 'time': '3:24'}
+{'rank': '395', 'singer': 'Calvin Harris、John Newman ', 'song': ' Blame', 'time': '3:33'}
+{'rank': '396', 'singer': '郑智化 ', 'song': ' 水手', 'time': '4:59'}
+{'rank': '397', 'singer': '空匪 ', 'song': ' Darling', 'time': '3:04'}
+{'rank': '398', 'singer': '林小珂 ', 'song': ' 爱,存在', 'time': '4:44'}
+{'rank': '399', 'singer': 'Rauf & Faik ', 'song': ' Колыбельная', 'time': '3:53'}
+{'rank': '400', 'singer': '刘宪华Henry、圭贤、泰民 ', 'song': ' Trap (陷阱)(Korean Ver.)', 'time': '3:47'}
+{'rank': '401', 'singer': '张雨生 ', 'song': ' 大海', 'time': '4:42'}
+{'rank': '402', 'singer': 'Calvin Harris、Ellie Goulding ', 'song': ' Outside', 'time': '3:47'}
+{'rank': '403', 'singer': '陶喆 ', 'song': ' 就是爱你', 'time': '4:22'}
+{'rank': '404', 'singer': '南征北战NZBZ ', 'song': ' 骄傲的少年', 'time': '4:22'}
+{'rank': '405', 'singer': '周传雄 ', 'song': ' 关不上的窗', 'time': '4:53'}
+{'rank': '406', 'singer': 'en ', 'song': ' 暗示分离', 'time': '3:56'}
+{'rank': '407', 'singer': 'J. Lisk ', 'song': ' Where Is Your Love', 'time': '2:37'}
+{'rank': '408', 'singer': '周杰伦 ', 'song': ' 听妈妈的话', 'time': '4:25'}
+{'rank': '409', 'singer': 'Alan Walker、Against The Current、Mako ', 'song': ' Legends Never Die ...', 'time': '2:47'}
+{'rank': '410', 'singer': 'Jake Miller ', 'song': ' Rumors', 'time': '3:06'}
+{'rank': '411', 'singer': '欣然丫、高亚楠、风云音社、虞姬(2) ', 'song': ' Phut Hon (Remix)', 'time': '3:00'}
+{'rank': '412', 'singer': '高进 ', 'song': ' 别想她', 'time': '3:49'}
+{'rank': '413', 'singer': '薛之谦 ', 'song': ' 野心', 'time': '3:40'}
+{'rank': '414', 'singer': 'G.E.M.邓紫棋 ', 'song': ' 你不是真正的快乐', 'time': '5:11'}
+{'rank': '415', 'singer': '英雄联盟、Against The Current ', 'song': ' Legends Never Die', 'time': '3:55'}
+{'rank': '416', 'singer': '太阳TAEYANG ', 'song': ' 링가 링가 (Ringa Linga)', 'time': '3:47'}
+{'rank': '417', 'singer': '南征北战NZBZ ', 'song': ' 哈尼宝贝', 'time': '3:29'}
+{'rank': '418', 'singer': '豆包 ', 'song': ' 等不到的人', 'time': '4:01'}
+{'rank': '419', 'singer': 'beth ', 'song': ' Let Me Down Slowly (Acoustic)', 'time': '2:41'}
+{'rank': '420', 'singer': 'BEYOND ', 'song': ' 灰色轨迹', 'time': '5:22'}
+{'rank': '421', 'singer': '逃跑计划 ', 'song': ' 夜空中最亮的星', 'time': '4:12'}
+{'rank': '422', 'singer': '棉子 ', 'song': ' 勇气', 'time': '4:01'}
+{'rank': '423', 'singer': '周兴哲 ', 'song': ' 永不失联的爱', 'time': '4:19'}
+{'rank': '424', 'singer': '阿悠悠 ', 'song': ' 半生', 'time': '3:17'}
+{'rank': '425', 'singer': '宋厦 ', 'song': ' 早晚 (DJ版)', 'time': '2:54'}
+{'rank': '426', 'singer': '周杰伦 ', 'song': ' 蒲公英的约定', 'time': '4:05'}
+{'rank': '427', 'singer': '梁雨 ', 'song': ' 平行恋人', 'time': '3:36'}
+{'rank': '428', 'singer': '银临、Aki阿杰 ', 'song': ' 牵丝戏', 'time': '3:59'}
+{'rank': '429', 'singer': 'Ariana Grande ', 'song': ' Last Christmas', 'time': '3:24'}
+{'rank': '430', 'singer': 'Kidz Bop Kids ', 'song': ' This Is What You Came For', 'time': '2:39'}
+{'rank': '431', 'singer': '张杰 ', 'song': ' 明天过后', 'time': '3:58'}
+{'rank': '432', 'singer': 'MAMAMOO ', 'song': ' HIP', 'time': '3:15'}
+{'rank': '433', 'singer': '小甜甜 ', 'song': ' 侧脸 (DJ版)', 'time': '4:07'}
+{'rank': '434', 'singer': '谭艳 ', 'song': ' 光明', 'time': '5:26'}
+{'rank': '435', 'singer': '张宇 ', 'song': ' 一言难尽', 'time': '4:12'}
+{'rank': '436', 'singer': 'Billie Eilish ', 'song': ' bad guy', 'time': '3:14'}
+{'rank': '437', 'singer': '林俊杰 ', 'song': ' 醉赤壁', 'time': '4:40'}
+{'rank': '438', 'singer': 'Alan Walker、Iselin Solheim ', 'song': ' Faded', 'time': '3:33'}
+{'rank': '439', 'singer': '伍佰&China Blue ', 'song': ' 挪威的森林', 'time': '6:31'}
+{'rank': '440', 'singer': '多雷 ', 'song': ' 泡沫 (Swang\xa0Remix)', 'time': '3:10'}
+{'rank': '441', 'singer': '铁脑袋mp3 ', 'song': ' 执迷不悟', 'time': '3:18'}
+{'rank': '442', 'singer': '李昕融、樊桐舟、李凯稠 ', 'song': ' 你笑起来真好看', 'time': '2:52'}
+{'rank': '443', 'singer': '刘若英 ', 'song': ' 成全', 'time': '4:36'}
+{'rank': '444', 'singer': '刘若英 ', 'song': ' 原来你也在这里', 'time': '3:40'}
+{'rank': '445', 'singer': '锋锋 ', 'song': ' 耗子尾汁 (DJ弹鼓版)', 'time': '4:18'}
+{'rank': '446', 'singer': '孟颖 ', 'song': ' 黎明前的黑暗', 'time': '2:13'}
+{'rank': '447', 'singer': 'Zedd、Jon Bellion ', 'song': ' Beautiful Now', 'time': '3:38'}
+{'rank': '448', 'singer': '周杰伦 ', 'song': ' 搁浅', 'time': '4:00'}
+{'rank': '449', 'singer': 'Lollipop ', 'song': ' Batte Forte (Subside Extended Rmx)', 'time': '4:56'}
+{'rank': '450', 'singer': '虎二 ', 'song': ' 你一定要幸福', 'time': '4:19'}
+{'rank': '451', 'singer': '杨小壮 ', 'song': ' 一个人挺好', 'time': '4:30'}
+{'rank': '452', 'singer': 'Alex Aiono、Feder ', 'song': ' Lordly', 'time': '3:16'}
+{'rank': '453', 'singer': '王小帅 ', 'song': ' 火红的萨日朗 (吉他版)', 'time': '3:10'}
+{'rank': '454', 'singer': 'LINKIN PARK ', 'song': ' In The End (最后)', 'time': '3:36'}
+{'rank': '455', 'singer': '孙楠 ', 'song': ' 留什么给你', 'time': '3:57'}
+{'rank': '456', 'singer': '林俊杰 ', 'song': ' 不潮不用花钱', 'time': '3:53'}
+{'rank': '457', 'singer': '叶炫清 ', 'song': ' 归去来兮', 'time': '3:58'}
+{'rank': '458', 'singer': '郑中基 ', 'song': ' 无赖', 'time': '4:03'}
+{'rank': '459', 'singer': 'F.I.R.飞儿乐团、彭佳慧 ', 'song': ' 心之火', 'time': '4:57'}
+{'rank': '460', 'singer': '黄静美 ', 'song': ' 活着需要多勇敢', 'time': '3:44'}
+{'rank': '461', 'singer': '张信哲 ', 'song': ' 过火', 'time': '5:02'}
+{'rank': '462', 'singer': 'Queen ', 'song': ' We Will Rock You', 'time': '2:03'}
+{'rank': '463', 'singer': '陈奕迅 ', 'song': ' K歌之王 (粤语版)', 'time': '3:41'}
+{'rank': '464', 'singer': '西柚 ', 'song': ' 爱过你这件事', 'time': '4:39'}
+{'rank': '465', 'singer': '李飘飘 ', 'song': ' 我在你身后', 'time': '3:01'}
+{'rank': '466', 'singer': 'Tiësto、Gucci Mane、Sevenn ', 'song': ' BOOM (Clean)', 'time': '2:58'}
+{'rank': '467', 'singer': '阿悄 ', 'song': ' 海海海', 'time': '4:07'}
+{'rank': '468', 'singer': '任然 ', 'song': ' 疑心病', 'time': '4:52'}
+{'rank': '469', 'singer': '于洋 ', 'song': ' 望爱却步', 'time': '3:58'}
+{'rank': '470', 'singer': '张郁梓 ', 'song': ' 心上的风', 'time': '3:23'}
+{'rank': '471', 'singer': 'Eddy Kim ', 'song': ' 이쁘다니까 (你真漂亮)', 'time': '3:16'}
+{'rank': '472', 'singer': '林子祥 ', 'song': ' 敢爱敢做', 'time': '5:00'}
+{'rank': '473', 'singer': '叶倩文 ', 'song': ' 爱的可能', 'time': '4:26'}
+{'rank': '474', 'singer': '李玖哲 ', 'song': ' 夏天', 'time': '3:46'}
+{'rank': '475', 'singer': '周传雄 ', 'song': ' 寂寞沙洲冷', 'time': '4:33'}
+{'rank': '476', 'singer': '依邦妮 ', 'song': ' 如果季节更替 (完整版)', 'time': '3:35'}
+{'rank': '477', 'singer': '刘惜君 ', 'song': ' 我很快乐', 'time': '3:33'}
+{'rank': '478', 'singer': '庄心妍 ', 'song': ' 单车', 'time': '3:13'}
+{'rank': '479', 'singer': '黄静美 ', 'song': ' 我热情如火,你冰冻成河', 'time': '3:42'}
+{'rank': '480', 'singer': '林俊杰 ', 'song': ' 我还想她', 'time': '4:05'}
+{'rank': '481', 'singer': '杨小壮 ', 'song': ' 再也没有那种感觉', 'time': '3:47'}
+{'rank': '482', 'singer': '静妹 ', 'song': ' 我也想相信真心对我的也有那么万分之一', 'time': '2:46'}
+{'rank': '483', 'singer': '张韶涵 ', 'song': ' 阿刁 (Live)', 'time': '5:21'}
+{'rank': '484', 'singer': '昭宥、郑基高、오승택 ', 'song': ' 썸 (暧昧)', 'time': '3:31'}
+{'rank': '485', 'singer': '陈泫孝(大泫) ', 'song': ' 静悄悄', 'time': '3:05'}
+{'rank': '486', 'singer': '王茗 ', 'song': ' 太迟', 'time': '2:56'}
+{'rank': '487', 'singer': 'cococola ', 'song': ' 后来遇见他', 'time': '3:29'}
+{'rank': '488', 'singer': '皮卡丘多多 ', 'song': ' 惊雷 (抒情版)', 'time': '3:39'}
+{'rank': '489', 'singer': 'James Blunt ', 'song': ' Cold', 'time': '3:28'}
+{'rank': '490', 'singer': '张靓颖、摩登兄弟刘宇宁 ', 'song': ' 无华', 'time': '4:21'}
+{'rank': '491', 'singer': 'Ever Slkr、Tian Storm ', 'song': ' Ampun Bang Jago', 'time': '3:31'}
+{'rank': '492', 'singer': 'HITA ', 'song': ' 将军此生 (DJ版)', 'time': '3:34'}
+{'rank': '493', 'singer': 'aespa (에스파) ', 'song': ' Black Mamba (黑曼巴)', 'time': '2:54'}
+{'rank': '494', 'singer': '街溜子 ', 'song': ' 白山茶 (热搜最火版)', 'time': '1:26'}
+{'rank': '495', 'singer': '唐伯虎Annie ', 'song': ' 青丝', 'time': '4:15'}
+{'rank': '496', 'singer': 'Ayo97、周思涵 ', 'song': ' 感谢你曾来过', 'time': '4:10'}
+{'rank': '497', 'singer': '云朵 ', 'song': ' 我的楼兰', 'time': '5:29'}
+{'rank': '498', 'singer': '小阿枫 ', 'song': ' 我要找到你', 'time': '2:37'}
+{'rank': '499', 'singer': 'CORSAK胡梦周、马吟吟 ', 'song': ' 溯 (Reverse)', 'time': '3:12'}
+{'rank': '500', 'singer': '齐一 ', 'song': ' 这个年纪', 'time': '4:44'}
+today is:2020-12-21
+{'rank': '1', 'singer': '是七叔呢 ', 'song': ' 踏山河', 'time': '2:48'}
+{'rank': '2', 'singer': '回小仙 ', 'song': ' 醒不来的梦', 'time': '3:52'}
+{'rank': '3', 'singer': 'IN', 'song': 'K、王忻辰 ', 'time': '3:01'}
+{'rank': '4', 'singer': 'IN', 'song': 'K、王忻辰 ', 'time': '4:01'}
+{'rank': '5', 'singer': '秋原依 ', 'song': ' 错季', 'time': '4:35'}
+{'rank': '6', 'singer': '是七叔呢 ', 'song': ' 燕无歇', 'time': '2:55'}
+{'rank': '7', 'singer': '花僮 ', 'song': ' 浪子闲话 (DJ沈念版)', 'time': '4:12'}
+{'rank': '8', 'singer': '小乐哥 ', 'song': ' 执迷不悟', 'time': '3:54'}
+{'rank': '9', 'singer': '阿YueYue ', 'song': ' 云与海', 'time': '4:18'}
+{'rank': '10', 'singer': '零一九零贰 ', 'song': ' 忘川彼岸 (DJ名龙版)', 'time': '3:00'}
+{'rank': '11', 'singer': '蒋雪儿 ', 'song': ' 燕无歇', 'time': '3:21'}
+{'rank': '12', 'singer': '井迪儿 ', 'song': ' 失控', 'time': '4:15'}
+{'rank': '13', 'singer': '陈亦洺 ', 'song': ' 不及 (DJ版)', 'time': '3:36'}
+{'rank': '14', 'singer': '海伦 ', 'song': ' 游山恋', 'time': '3:43'}
+{'rank': '15', 'singer': '零一九零贰 ', 'song': ' 还在假装', 'time': '2:45'}
+{'rank': '16', 'singer': 'Bomb比尔 ', 'song': ' 1022', 'time': '3:15'}
+{'rank': '17', 'singer': '比莉 ', 'song': ' Dear John', 'time': '5:11'}
+{'rank': '18', 'singer': '花僮 ', 'song': ' 笑纳', 'time': '4:32'}
+{'rank': '19', 'singer': '林晨阳 ', 'song': ' 失眠播报', 'time': '2:46'}
+{'rank': '20', 'singer': '闻人听書_ ', 'song': ' 虞兮叹', 'time': '3:30'}
+{'rank': '21', 'singer': '任然 ', 'song': ' 飞鸟和蝉', 'time': '4:56'}
+{'rank': '22', 'singer': '刘大壮 ', 'song': ' 我很好 (吉他版)', 'time': '3:48'}
+{'rank': '23', 'singer': '吴青峰 ', 'song': ' 如果声音不记得', 'time': '4:58'}
+{'rank': '24', 'singer': '伦桑、一棵小葱张晓涵 ', 'song': ' 字正腔圆', 'time': '3:45'}
+{'rank': '25', 'singer': '你的大表哥曲甲 ', 'song': ' 坠', 'time': '3:34'}
+{'rank': '26', 'singer': '小阿枫 ', 'song': ' 醉倾城 (DJ名龙版)', 'time': '5:08'}
+{'rank': '27', 'singer': '添儿呗 ', 'song': ' 烟火人间', 'time': '4:25'}
+{'rank': '28', 'singer': '张韶涵 ', 'song': ' 破茧', 'time': '3:31'}
+{'rank': '29', 'singer': '蓝心羽 ', 'song': ' 星空剪影', 'time': '3:17'}
+{'rank': '30', 'singer': '张茜 ', 'song': ' 用力活着', 'time': '4:23'}
+{'rank': '31', 'singer': 'Ava Max ', 'song': ' Salt', 'time': '3:00'}
+{'rank': '32', 'singer': '李袁杰 ', 'song': ' 大天蓬', 'time': '3:50'}
+{'rank': '33', 'singer': '叶里、伊格赛听 ', 'song': ' 谪仙', 'time': '2:58'}
+{'rank': '34', 'singer': 'BLACKPINK ', 'song': ' How You Like That', 'time': '3:01'}
+{'rank': '35', 'singer': '李润祺 ', 'song': ' 茫', 'time': '3:47'}
+{'rank': '36', 'singer': '王琪 ', 'song': ' 可可托海的牧羊人', 'time': '5:40'}
+{'rank': '37', 'singer': '艾辰 ', 'song': ' 谁与归 (DJ版)', 'time': '4:26'}
+{'rank': '38', 'singer': '王靖雯不胖 ', 'song': ' 不知所措', 'time': '4:08'}
+{'rank': '39', 'singer': '王靖雯不胖 ', 'song': ' 善变', 'time': '4:16'}
+{'rank': '40', 'singer': '伊格赛听、不靠谱组合 ', 'song': ' 广寒谣', 'time': '3:06'}
+{'rank': '41', 'singer': '林俊杰 ', 'song': ' 美人鱼', 'time': '4:14'}
+{'rank': '42', 'singer': 'en ', 'song': ' 间距', 'time': '4:44'}
+{'rank': '43', 'singer': '耀温顺 ', 'song': ' Love Is Gone (完整原版)', 'time': '3:00'}
+{'rank': '44', 'singer': '等什么君 ', 'song': ' 春庭雪', 'time': '4:00'}
+{'rank': '45', 'singer': '镜予歌、陈亦洺、喧笑 ', 'song': ' 晚夜微雨问海棠', 'time': '4:43'}
+{'rank': '46', 'singer': '不是花火呀 ', 'song': ' 陨落', 'time': '3:30'}
+{'rank': '47', 'singer': 'Maroon 5 ', 'song': ' Animals', 'time': '3:51'}
+{'rank': '48', 'singer': '傅梦彤 ', 'song': ' 潮汐 (DJ版)', 'time': '2:18'}
+{'rank': '49', 'singer': 'Alec Benjamin、Alessia Cara ', 'song': ' Let Me Down Slowly', 'time': '2:49'}
+{'rank': '50', 'singer': '白小白 ', 'song': ' 爱不得忘不舍', 'time': '3:52'}
+{'rank': '51', 'singer': '小乐哥 ', 'song': ' 慢慢', 'time': '3:57'}
+{'rank': '52', 'singer': 'Kyle Reynolds、Aspyer、Carly Jay ', 'song': ' Chance', 'time': '3:33'}
+{'rank': '53', 'singer': '王靖雯不胖 ', 'song': ' 遗憾也值得', 'time': '4:04'}
+{'rank': '54', 'singer': 'FrogMonster ', 'song': ' Remember Our Summer', 'time': '2:43'}
+{'rank': '55', 'singer': '海来阿木 ', 'song': ' 不过人间', 'time': '4:10'}
+{'rank': '56', 'singer': 'LoKk6 ', 'song': ' 我还是', 'time': '3:57'}
+{'rank': '57', 'singer': '傅梦彤 ', 'song': ' 潮汐 (Natural)', 'time': '2:48'}
+{'rank': '58', 'singer': '曲肖冰 ', 'song': ' 厚颜无耻', 'time': '3:05'}
+{'rank': '59', 'singer': 'XXXTENTACION ', 'song': ' NUMB', 'time': '3:06'}
+{'rank': '60', 'singer': '零一九零贰 ', 'song': ' 还你自由 (完整版)', 'time': '3:11'}
+{'rank': '61', 'singer': '邵帅 ', 'song': ' 你是人间四月天 (Live)', 'time': '2:58'}
+{'rank': '62', 'singer': '徐佳莹 ', 'song': ' 不舍(《斗罗大陆》动画片尾曲)', 'time': '4:37'}
+{'rank': '63', 'singer': '刘大壮 ', 'song': ' 三号线 (吉他版)', 'time': '3:34'}
+{'rank': '64', 'singer': '蔡健雅 ', 'song': ' 红色高跟鞋', 'time': '3:26'}
+{'rank': '65', 'singer': 'Phao、CM1X ', 'song': ' Hai Phút Hơn', 'time': '3:14'}
+{'rank': '66', 'singer': '单依纯 ', 'song': ' 永不失联的爱 (Live)', 'time': '4:23'}
+{'rank': '67', 'singer': '清水er ', 'song': ' 大天蓬 (女生版)', 'time': '3:35'}
+{'rank': '68', 'singer': 'Chris James ', 'song': ' Not Angry', 'time': '3:19'}
+{'rank': '69', 'singer': '等什么君 ', 'song': ' 辞九门回忆', 'time': '4:00'}
+{'rank': '70', 'singer': '周杰伦 ', 'song': ' 花海', 'time': '4:24'}
+{'rank': '71', 'singer': '张芸京 ', 'song': ' 偏爱', 'time': '3:32'}
+{'rank': '72', 'singer': '任然 ', 'song': ' 无人之岛', 'time': '4:45'}
+{'rank': '73', 'singer': '白小白 ', 'song': ' 我爱你不问归期', 'time': '4:14'}
+{'rank': '74', 'singer': 'Li', 'song': '2c ', 'time': '3:35'}
+{'rank': '75', 'singer': '周杰伦 ', 'song': ' 稻香', 'time': '3:43'}
+{'rank': '76', 'singer': 'Matisyahu、Akon ', 'song': ' One Day', 'time': '3:40'}
+{'rank': '77', 'singer': '王俊余乐 ', 'song': ' 一千个伤心的理由 (男女对唱版)', 'time': '4:29'}
+{'rank': '78', 'singer': '海伦 ', 'song': ' 游京 (新版)', 'time': '3:08'}
+{'rank': '79', 'singer': 'iKON ', 'song': ' 사랑을 했다 (LOVE SCENARIO) (爱过)', 'time': '3:29'}
+{'rank': '80', 'singer': '阿悠悠 ', 'song': ' 旧梦一场', 'time': '2:54'}
+{'rank': '81', 'singer': '薛之谦、郭聪明 ', 'song': ' 耗尽', 'time': '4:19'}
+{'rank': '82', 'singer': 'ILLENIUM、Nevve ', 'song': ' Fractures', 'time': '4:05'}
+{'rank': '83', 'singer': '街道办GDC、欧阳耀莹 ', 'song': ' 春娇与志明', 'time': '3:28'}
+{'rank': '84', 'singer': '华莎 ', 'song': ' 마리아 (María)', 'time': '3:19'}
+{'rank': '85', 'singer': '周杰伦 ', 'song': ' 霍元甲', 'time': '4:38'}
+{'rank': '86', 'singer': '刘德华 ', 'song': ' 暗里着迷', 'time': '3:49'}
+{'rank': '87', 'singer': '璐爷 ', 'song': ' 大天蓬', 'time': '4:04'}
+{'rank': '88', 'singer': 'Uu ', 'song': ' 慢慢', 'time': '3:59'}
+{'rank': '89', 'singer': 'Wiz Khalifa、Charlie Puth ', 'song': ' See You Again', 'time': '3:49'}
+{'rank': '90', 'singer': '司南 ', 'song': ' 冬眠', 'time': '4:29'}
+{'rank': '91', 'singer': '刘大壮 ', 'song': ' 一吻天荒 (吉他版)', 'time': '4:04'}
+{'rank': '92', 'singer': 'Sasha Sloan ', 'song': ' Dancing With Your Ghost', 'time': '3:17'}
+{'rank': '93', 'singer': 'Kidz Bop Kids ', 'song': ' Wolves', 'time': '3:19'}
+{'rank': '94', 'singer': 'Alec Benjamin ', 'song': ' Let Me Down Slowly', 'time': '2:49'}
+{'rank': '95', 'singer': '毛不易 ', 'song': ' 牧马城市', 'time': '4:18'}
+{'rank': '96', 'singer': '铭志 ', 'song': ' 他只是经过 (完整版)', 'time': '2:42'}
+{'rank': '97', 'singer': '周杰伦 ', 'song': ' 给我一首歌的时间', 'time': '4:13'}
+{'rank': '98', 'singer': '海来阿木、阿呷拉古、曲比阿且 ', 'song': ' 别知己', 'time': '4:40'}
+{'rank': '99', 'singer': '小咪 ', 'song': ' 我走后', 'time': '4:08'}
+{'rank': '100', 'singer': '安苏羽、傅梦彤 ', 'song': ' 潮汐 (Natural)', 'time': '2:48'}
+{'rank': '101', 'singer': '艾辰 ', 'song': ' 晚夜微雨问海棠', 'time': '4:32'}
+{'rank': '102', 'singer': '林俊杰 ', 'song': ' 那些你很冒险的梦', 'time': '4:05'}
+{'rank': '103', 'singer': '灼夭、小田音乐社 ', 'song': ' 鲸落万物生', 'time': '2:56'}
+{'rank': '104', 'singer': '海来阿木 ', 'song': ' 你的万水千山', 'time': '4:09'}
+{'rank': '105', 'singer': '蒋雪儿 ', 'song': ' 莫问归期', 'time': '3:39'}
+{'rank': '106', 'singer': '周杰伦 ', 'song': ' 晴天', 'time': '4:29'}
+{'rank': '107', 'singer': 'Hawk Nelson ', 'song': ' Sold Out', 'time': '3:33'}
+{'rank': '108', 'singer': 'Conor Maynard ', 'song': ' Someone You Loved', 'time': '2:28'}
+{'rank': '109', 'singer': '蓝心羽 ', 'song': ' 阿拉斯加海湾', 'time': '3:57'}
+{'rank': '110', 'singer': 'Sia ', 'song': ' Unstoppable', 'time': '3:37'}

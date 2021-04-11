@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/壁纸爬取" />
+      <excludeFolder url="file://$MODULE_DIR$/video" />
+      <excludeFolder url="file://$MODULE_DIR$/舰b立绘" />
+      <excludeFolder url="file://$MODULE_DIR$/舰b立绘（中）" />
+      <excludeFolder url="file://$MODULE_DIR$/novel" />
+      <excludeFolder url="file://$MODULE_DIR$/shipC" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
